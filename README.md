@@ -8,3 +8,4 @@ You can install the package via `pip`:
 
 ```bash
 pip install 102203166-topsis-stuti
+# topsis-package
